@@ -1,3 +1,3 @@
 # gmbox.github.io
-gmbox.ml
+antgmb.ml
 GMBindex
